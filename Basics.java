@@ -15,3 +15,15 @@
             @Owerride
       Load.Componets == java. Load == ruby
         JAVA == script.file
+     @Owerride == java 
+        jar == fileload.script(load.rar)
+            ProgramConsole.predictiom.rar. 
+       Jar == components.java(prediction)
+      @Owerride == java 
+        jar == fileload.script(load.rar) == load
+            load.gr(predictiom.rar. JAVA 
+       M == components.java(prediction)
+           M == components.java(role)
+        Prediction(name.r
+    
+      
