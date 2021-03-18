@@ -26,4 +26,11 @@
            M == components.java(role)
         Prediction(name.r
     
-      
+     @Owveride
+      language = (lexer)
+         print( % info )
+      @Owveride = (lexer)
+          print( % print)
+              float; token.class( java)
+              float; print.text(print)
+          text( printer = true)
